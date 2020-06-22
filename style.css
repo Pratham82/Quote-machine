@@ -195,7 +195,7 @@ footer a {
 		flex-direction: column;
 		justify-content: center;
 		height: 250px;
-		width: 250px;
+		width: 280px;
 		align-items: center;
 		padding: 1rem;
 		margin: 1rem;
@@ -208,11 +208,11 @@ footer a {
 		margin: 0;
 	}
 	#result {
-		font-size: 0.85rem;
+		font-size: 1rem;
 		margin-top: 10px;
 	}
 	#author {
-		font-size: 0.75rem;
+		font-size: 0.85rem;
 		font-weight: 800;
 		margin-left: 100px;
 	}
